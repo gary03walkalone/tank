@@ -10,13 +10,13 @@
 
 开发环境
 ---
-###运行环境：windows系统
+运行环境：windows系统
 
-###编程语言：Python语言
+编程语言：Python语言
 
-###编译器：pycharm
+编译器：pycharm
 
-###第三方库：pygame库 time库 random库
+第三方库：pygame库 time库 random库
 
 参与编写者：
 ---
